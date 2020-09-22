@@ -148,8 +148,7 @@
 <br><br><br><br>
 # [관련이미지 & 동영상]
 - 이미지
-<img src="./img/그림1.jpg">
-<img src="./img/캡처.PNG" width:550>
+<img src="./img/캡처.PNG">
 - 동영상
 - 동영상
 [![vue](./img/그림1.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
