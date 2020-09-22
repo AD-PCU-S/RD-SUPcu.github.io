@@ -151,6 +151,6 @@
 <img src="./img/캡처.PNG">
 - 동영상
 - 동영상
-[![vue](./img/그림1.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
+[![vue]](./img/그림1.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
 
 
