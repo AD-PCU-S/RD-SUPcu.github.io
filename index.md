@@ -150,5 +150,7 @@
 - 이미지
 <img src="./img/그림1.jpg">
 <img src="./img/캡처.PNG">
+- 동영상
+(https://www.youtube.com/watch?v=nCHK5Nt4eAs&t=185s)
 
 
