@@ -50,22 +50,22 @@
 <br><br><br>
 > # [게임 메뉴 UI ]
 
-<img src="./img/캡처2.png">
+<img src="./img/캡처2.PNG">
 <br><br>
-<img src="./img/캡쳐3.png">
+<img src="./img/캡쳐3.PNG">
 <br><br>
-<img src="./img/캡처4.png">
+<img src="./img/캡처4.PNG">
 <br><br>
-<img src="./img/캡처5.png">
+<img src="./img/캡처5.PNG">
 
 
 <br><br><br><br><br>
 > # [인게임 게임 UI ]
-<img src="./img/캡처9.png">
+<img src="./img/캡처9.PNG">
 <br><br>
-<img src="./img/캡처8.png">
+<img src="./img/캡처8.PNG">
 <br><br>
-<img src="./img/캡처10.png">
+<img src="./img/캡처10.PNG">
 <br><br><br>
 
 > # [게임 구성]
@@ -81,7 +81,7 @@
 
 > ## 타워 조합 시스템
 
-<img src="./img/캡쳐11.png">
+<img src="./img/캡쳐11.PNG">
 <br><br>
 
 > ## TOWER[포탑]
@@ -101,7 +101,7 @@
 <br><br><br><br>
 
 > # 게임 루프
-<img src="./img/캡처6.png">
+<img src="./img/캡처6.PNG">
 
 <br><br><br><br>
 
@@ -149,6 +149,6 @@
 # [관련이미지 & 동영상]
 - 이미지
 <img src="./img/그림1.jpg">
-<img src="./img/캡처.png">
+<img src="./img/캡처.PNG">
 
 
