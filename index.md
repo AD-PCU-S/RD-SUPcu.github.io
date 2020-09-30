@@ -158,10 +158,10 @@
 |:---:|:---:|:---:|
 |1|타워(A-Type)|<img src="./img/포탑A.PNG" width="500">|
 |2|타워(B-Type)|<img src="./img/포탑B.PNG" width="500">|
-|3|타워(C-Type)|<img src="./img/포탑C.PNG"width="500" >|
-|4|통상 적|<img src="./img/일반몹.PNG"width="500">|
-|5|보스 몬스터|<img src="./img/보스몹.PNG"width="500">|
-|6|맵|<img src="./img/맵.PNG">|
+|3|타워(C-Type)|<img src="./img/포탑C.PNG" width="500" >|
+|4|통상 적|<img src="./img/일반몹.PNG" width="500">|
+|5|보스 몬스터|<img src="./img/보스몹.PNG" width="500">|
+|6|맵|<img src="./img/맵.PNG" width="500">|
 
 
 <br><br><br><br>
