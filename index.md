@@ -161,6 +161,7 @@
 |3|타워(C-Type)|<img src="./img/포탑C.png" width="400" >|
 |4|통상 적|<img src="./img/일반몹.png" width="400">|
 |5|보스 몬스터|<img src="./img/보스몹.png" width="400">|
+
 <br><br>
 
 ## 2. 파라미터[속성] 뽑아보기
