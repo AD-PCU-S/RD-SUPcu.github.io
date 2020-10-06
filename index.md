@@ -95,7 +95,7 @@
 
 
 <br><br><br><br><br>
-> # [인게임 게임 UI ]
+> # [인게임 게임 UI]
 <img src="./img/캡처9.PNG">
 <br><br>
 <img src="./img/캡처8.PNG">
