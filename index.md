@@ -172,7 +172,7 @@
 |:---:|:---:|:---:|:---:|
 |데미지|Damage 100+Tier(Tier + 100, 5 Tier = 500 // Max 1500 Total 5Tier = 1600(100 + 1500)|적에게 주는 데미지|Upgrade (1Upgrade=Damage*15%)|
 |공격범위|12*12 <br> 1타워=2x2//길 1x2//2x1|공격을 할 수 있는 범위||
-|공격속도|1.5s (1=1Second)|타워 하나가 공격하는 속도|Upgrade (1Upgrade=0.05s//Max=0.5|
+|공격속도|1.5s (1=1Second)|타워 하나가 공격하는 속도|Upgrade (1Upgrade=0.05s//Max=0.5)|
 |공격타수|1|타워 하나가 공격 가능한 타수||
 |타워 철거 비용|1Tier=50 <br> 2Tier=100 <br> 3Tier=200 <br> 4Tier=400 <br> 5Tier=800|타워를 철거(회수)할 때 쓰는 비용||
 
@@ -184,7 +184,7 @@
 |:---:|:---:|:---:|:---:|
 |데미지|Damage 25+Tier(Tier + 15.5, 5 Tier = 75 // Max 225 Total 5Tier = 250(25 + 225)|적에게 주는 데미지|Upgrade (1Upgrade=Damage*10%)|
 |공격범위|10*10 <br> 1타워=2x2//길 1x2//2x1|공격을 할 수 있는 범위||
-|공격속도|1.0s (1=1Second)|타워 하나가 공격하는 속도|Upgrade (1Upgrade=0.03s//Max=0.3|
+|공격속도|1.0s (1=1Second)|타워 하나가 공격하는 속도|Upgrade (1Upgrade=0.03s//Max=0.3)|
 |공격타수|5|타워 하나가 공격 가능한 타수||
 |타워 철거 비용|1Tier=50 <br> 2Tier=100 <br> 3Tier=200 <br> 4Tier=400 <br> 5Tier=800|타워를 철거(회수)할 때 쓰는 비용||
 
@@ -196,7 +196,7 @@
 |:---:|:---:|:---:|:---:|
 |데미지|Damage 500+Tier(Tier + 200, 5 Tier = 1000 // Max 3000 Total 5Tier = 3500(500 + 3000)|적에게 주는 데미지|Upgrade (1Upgrade=Damage*20%)|
 |공격범위|18*18 <br> 1타워=2x2//길 1x2//2x1|공격을 할 수 있는 범위||
-|공격속도|3.0s (1=1Second)|타워 하나가 공격하는 속도|Upgrade (1Upgrade=0.07s//Max=0.7|
+|공격속도|3.0s (1=1Second)|타워 하나가 공격하는 속도|Upgrade (1Upgrade=0.07s//Max=0.7)|
 |공격타수|1|타워 하나가 공격 가능한 타수||
 |타워 철거 비용|1Tier=50 <br> 2Tier=100 <br> 3Tier=200 <br> 4Tier=400 <br> 5Tier=800|타워를 철거(회수)할 때 쓰는 비용||
 
