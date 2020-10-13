@@ -95,6 +95,16 @@
 <br><br>
 <img src="./img/캡처5.PNG">
 
+<br><br>
+
+# [관련이미지 & 동영상]
+- 이미지
+<img src="./img/캡처.PNG">
+
+- 동영상
+[![vue](./img/그림1.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
+
+
 
 <br><br><br><br><br>
 > # 인게임 게임 UI
@@ -401,11 +411,5 @@
 
 
 
-# [관련이미지 & 동영상]
-- 이미지
-<img src="./img/캡처.PNG">
-
-- 동영상
-[![vue](./img/그림1.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
 
 
