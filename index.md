@@ -85,6 +85,15 @@
 
 - 위신은 메리트만 있는 것이 아니다. 메리트와 디메리트를 동시에 포함하여 까다로운 선택을 강요할 수 있다.
 <br><br><br>
+
+# [관련이미지 & 동영상]
+- 이미지
+<img src="./img/캡처.PNG">
+
+- 동영상
+[![vue](./img/그림1.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
+
+
 > # 게임 메뉴 UI
 
 <img src="./img/캡처2.PNG">
@@ -94,16 +103,6 @@
 <img src="./img/캡처4.PNG">
 <br><br>
 <img src="./img/캡처5.PNG">
-
-<br><br>
-
-# [관련이미지 & 동영상]
-- 이미지
-<img src="./img/캡처.PNG">
-
-- 동영상
-[![vue](./img/그림1.jpg)](https://www.youtube.com/watch?v=ac7tz6wOc_g)
-
 
 
 <br><br><br><br><br>
