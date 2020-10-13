@@ -407,6 +407,8 @@
 
 ## 시간별 흐름도 flowchart  
 
+<img src="./img/flowchart.png"> 
+
 <br>
 
 
