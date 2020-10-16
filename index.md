@@ -416,7 +416,7 @@
 
 ## 용어정리  
 
-<img src="./img/용어 정리1.png">  
+<img src="./img/용어 정리2.png">  
 
 <br>
 
