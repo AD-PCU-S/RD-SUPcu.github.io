@@ -389,7 +389,7 @@
 8. 게임화면의 중간에는 18x18 사이즈의 정사각형 맵이 나온다.
 9. 시작화면에서 게임 시작 버튼을 누를 경우, 두 가지 버튼이 나오게 한다. Normal 난이도와 Hard난이도 선택 버튼이 나온다. 버튼을 클릭 시, 게임 화면으로 이동한다.
 10. 타워의 경우 Unity로 타워 모양 만들기 or Asset Store 이용
-4개의 Scene(Main, Game, Score, Prestige)
+- 4개의 Scene(Main, Game, Score, Prestige)
 - Base Map 제작
 - 타워 제작  
 
