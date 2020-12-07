@@ -32,7 +32,7 @@
 5. [6주차 개발일지](file/W06/w06.md)
 6. [마지막주차 개발일지](file/Finale/finale.md)
 
-## 결과물(file/Last/last.md) 
+## [결과물](file/Last/last.md) 
 
  
 
