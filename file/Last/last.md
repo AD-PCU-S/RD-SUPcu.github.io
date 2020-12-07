@@ -17,5 +17,10 @@
 
 <img src="./img/그림7.png">  <br>
 
+
+
 <img src="./img/그림0.PNG">  
+
+
+<img src="./img/캡처12.PNG">  
 
