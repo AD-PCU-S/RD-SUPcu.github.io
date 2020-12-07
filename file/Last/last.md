@@ -12,8 +12,12 @@
 
 ![그림6](https://user-images.githubusercontent.com/71679947/101417077-75a5a180-392e-11eb-8ffc-c4f75a76324d.png) <br>
 
+## 중반 계획
+
 ![그림7](https://user-images.githubusercontent.com/71679947/101417079-75a5a180-392e-11eb-97f2-8b3f4c5604f2.png) <br>
 
 ![그림2](https://user-images.githubusercontent.com/71679947/101417070-74747480-392e-11eb-95e8-6a2cbbc71a56.png) <br>
+
+## 결과물
 
 ![그림0](https://user-images.githubusercontent.com/71679947/101417063-72aab100-392e-11eb-99bc-8cfcad4bf508.PNG)
