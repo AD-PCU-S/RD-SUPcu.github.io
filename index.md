@@ -30,7 +30,7 @@
 3. [4주차 개발일지](file/W04/w04.md)
 4. [5주차 개발일지](file/W05/w05.md)
 5. [6주차 개발일지](file/W06/w06.md)
-
+6. [마지막주차 개발일지](file/Finale/finale.md)
 
  
 
@@ -510,6 +510,8 @@
 ### [5주차 개발일지](file/W05/w05.md)  
 
 ### [6주차 개발일지](file/W06/w06.md)
+
+### [마지막주차 개발일지](file/Finale/finale.md)
 
 
 
