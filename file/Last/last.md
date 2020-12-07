@@ -2,8 +2,10 @@
 
 ## 초반 계획
 
+## 맵 생성
 ![그림1](https://user-images.githubusercontent.com/71679947/101417068-73dbde00-392e-11eb-80b7-38cd8487b498.png) <br>
 
+## UI 
 ![그림3](https://user-images.githubusercontent.com/71679947/101417072-74747480-392e-11eb-9195-1d77be0145e4.png) <br>
 
 ![그림4](https://user-images.githubusercontent.com/71679947/101417073-750d0b00-392e-11eb-9ae7-eb2a70c7f960.png) <br>
