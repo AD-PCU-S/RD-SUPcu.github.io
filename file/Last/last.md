@@ -3,7 +3,7 @@
 ## 초반 계획
 
 
-<img src="./img/그림1.png">  
+<img src="./img/그림1.jpg">  
 <img src="./img/그림2.png">  
 <img src="./img/그림3.png">  
 <img src="./img/그림4.png">  
