@@ -12,7 +12,6 @@
 
 ![그림5](https://user-images.githubusercontent.com/71679947/101417075-750d0b00-392e-11eb-850b-306ae1c65796.png) <br>
 
-![그림6](https://user-images.githubusercontent.com/71679947/101417077-75a5a180-392e-11eb-8ffc-c4f75a76324d.png) <br>
 
 ## 중반 계획
 
@@ -22,4 +21,6 @@
 
 ## 결과물
 
-![그림0](https://user-images.githubusercontent.com/71679947/101417063-72aab100-392e-11eb-99bc-8cfcad4bf508.PNG)
+|초기 계획|결과물|
+|![그림6](https://user-images.githubusercontent.com/71679947/101417077-75a5a180-392e-11eb-8ffc-c4f75a76324d.png)|![그림0](https://user-images.githubusercontent.com/71679947/101417063-72aab100-392e-11eb-99bc-8cfcad4bf508.PNG)|
+
