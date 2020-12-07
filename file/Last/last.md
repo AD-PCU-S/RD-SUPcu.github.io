@@ -21,9 +21,11 @@
 
 ## 결과물
 
-|초기 계획|결과물|
-|![그림6](https://user-images.githubusercontent.com/71679947/101417077-75a5a180-392e-11eb-8ffc-c4f75a76324d.png)|![그림0](https://user-images.githubusercontent.com/71679947/101417063-72aab100-392e-11eb-99bc-8cfcad4bf508.PNG)|
+##초기 이미지
+![그림6](https://user-images.githubusercontent.com/71679947/101417077-75a5a180-392e-11eb-8ffc-c4f75a76324d.png)
 
-|초기 계획|결과물|ㅁㄴㅇㅁㄴ|ㅇㅁㄴㅇㅁ|
-|![그림6](https://user-images.githubusercontent.com/71679947/101417077-75a5a180-392e-11eb-8ffc-c4f75a76324d.png)|![그림0](https://user-images.githubusercontent.com/71679947/101417063-72aab100-392e-11eb-99bc-8cfcad4bf508.PNG)|ㅇㅁㄴㅇ|ㅇㅁㄴㅇㅁㄴ|
+##
+![그림0](https://user-images.githubusercontent.com/71679947/101417063-72aab100-392e-11eb-99bc-8cfcad4bf508.PNG)
+
+
 
